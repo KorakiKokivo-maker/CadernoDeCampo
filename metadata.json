@@ -1,0 +1,6 @@
+{
+  "name": "Caderno de Campo",
+  "description": "Um aplicativo agrícola offline-first para registro e gestão completa das safras e propriedades rurais, permitindo o registro de operações, geração de relatórios PDF e cálculo de indicadores econômicos.",
+  "icon": "icon.png",
+  "requestFramePermissions": []
+}
